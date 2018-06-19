@@ -65,7 +65,7 @@ Log streaming and threat hunting (NSS Labs)
 	- Planning, log value using identified attack methods and working back
 	- Run samples to determine effectiveness of the solution e.g search, alert, dashboards, monitoring toolset
 
-	Topics (Kafka) for consumer (end user) subscription. Linked with annotation engine.
+Topics (Kafka) for consumer (end user) subscription. Linked with annotation engine.
 
 Micro segmentation
 	- PoC tools
